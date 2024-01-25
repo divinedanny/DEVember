@@ -25,6 +25,7 @@ const styles = StyleSheet.create({
     text: {
         color: '#9B4521',
         fontSize: 50,
+        fontFamily: 'AmaticBold', 
     }
 });
 export default DayListItem;
